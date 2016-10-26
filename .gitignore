@@ -1,0 +1,8 @@
+Debug
+Release
+
+*.pdb
+*.idb
+*.exe
+*.sdf
+*.user
