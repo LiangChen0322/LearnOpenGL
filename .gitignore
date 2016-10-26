@@ -6,3 +6,5 @@ Release
 *.exe
 *.sdf
 *.user
+*.opensdf
+*.suo
